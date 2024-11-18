@@ -10,7 +10,7 @@ https://github.com/Gradia-Ohjelmistokehitys-k2022/rajapinnat-k2025/blob/main/T2/
 
 
 **T2.2** a) Sevitä edellä suomentamasi tehtävän avulla alla olevan coingecko-rajapinnan bitcoin-haun ***from*** ja ***to*** -kenttien arvojen merkitys. 
-b) Säädä from ja to -arvot niin että ne viittaavat nyt tähän ja eddeltävään kahteen viikkoon.
+b) Säädä alla olevan bitcoin-haun from ja to -arvot niin että ne viittaavat nyt tähän ja eddeltävään kahteen viikkoon.
 c) Miten käsittelet niihin liityviä arvoja c#:ssa?
 
 Malli bitcoin-hausta: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=eur&from=1577836800&to=1677836800
