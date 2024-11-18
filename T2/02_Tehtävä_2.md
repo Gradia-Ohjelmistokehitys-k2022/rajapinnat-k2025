@@ -5,7 +5,7 @@ Opittavat tiedot ja taidot: Englannin opiskelua, tiedonetsintää ja rajapinnan 
 
 **T2.1** Suomenna oheinen englanninkielinen esimerkkitehtävä, itsellesi riittävällä tarkkuudella. Kerro pdf-dokumentissa vapaamuotoisesti mitä siinä tarkoitetaan eli mitä pitää tehdä?. 
 
-Englanninkielinen esimerkkitehtävä : Vincit pressassignment.md
+Englanninkielinen esimerkkitehtävä : Vincitpressassignment.md
 https://github.com/Gradia-Ohjelmistokehitys-k2022/rajapinnat-k2025/blob/main/T2/vincitpreassignment.md
 
 
