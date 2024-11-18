@@ -5,7 +5,8 @@ Opittavat tiedot ja taidot: Englannin opiskelua, tiedonetsintää ja rajapinnan 
 
 **T2.1** Suomenna oheinen englanninkielinen esimerkkitehtävä, itsellesi riittävällä tarkkuudella. Kerro pdf-dokumentissa vapaamuotoisesti mitä siinä tarkoitetaan eli mitä pitää tehdä?. 
 
-Englanninkielinen esimerkkitehtävä : 
+Englanninkielinen esimerkkitehtävä : Vincit pressassignment.md
+https://github.com/Gradia-Ohjelmistokehitys-k2022/rajapinnat-k2025/blob/main/T2/vincitpreassignment.md
 
 
 **T2.2** Sevitä edellä suomentamasi tehtävän avulla alla olevan coingecko-rajapinnan bitcoin-haun ***from*** ja ***to*** -kenttien arvojen merkitys. 
